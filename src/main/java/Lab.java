@@ -1,4 +1,4 @@
-public class EvenOrOdd {
+public class Lab {
     /**
      * Your challenge is to implement a method to determine if an int is even or odd. The method should return
      * the String "Even" if the number is even, and "Odd" if it is odd.

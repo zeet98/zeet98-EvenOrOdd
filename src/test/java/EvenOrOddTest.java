@@ -4,10 +4,10 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 public class EvenOrOddTest {
-    static EvenOrOdd eoo;
+    static Lab eoo;
     @BeforeClass
     public static void setUp(){
-        eoo = new EvenOrOdd();
+        eoo = new Lab();
     }
 
     /**
